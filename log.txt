@@ -1,0 +1,36 @@
+17:25:24 form ImmutableMultiDict([('uid', '5120150563'), ('password', '123')])
+17:25:24 yesyesesy
+17:25:24 user <models.user.User object at 0x04D8EB90>
+17:25:25 5120150563
+22:41:07 -1
+22:41:11 form ImmutableMultiDict([('uid', '5120150563'), ('password', '123')])
+22:41:11 user <models.user.User object at 0x0417D910>
+22:41:12 5120150563
+22:41:42 form ImmutableMultiDict([('uid', '5120150563'), ('password', '123')])
+22:41:42 user <models.user.User object at 0x041A5670>
+22:41:42 5120150563
+18:42:41 -1
+18:43:06 -1
+18:43:38 -1
+18:44:08 -1
+18:44:57 -1
+18:45:05 form ImmutableMultiDict([('uid', '5120150563'), ('password', '123')])
+18:45:05 user <models.user.User object at 0x04794DD0>
+18:45:05 5120150563
+18:50:08 form ImmutableMultiDict([('uid', '5120150563'), ('password', '123')])
+18:50:08 user <models.user.User object at 0x04DB5B30>
+18:50:08 5120150563
+18:50:36 5120150563
+18:50:36 丁亮
+18:51:52 form ImmutableMultiDict([('uid', '5120150563'), ('password', '123')])
+18:51:53 user <models.user.User object at 0x04D45B70>
+18:51:53 5120150563
+18:51:53 丁亮
+18:52:31 form ImmutableMultiDict([('uid', '5120150563'), ('password', '123')])
+18:52:31 user <models.user.User object at 0x04495B70>
+18:52:31 5120150563
+18:52:31 丁亮
+18:53:18 form ImmutableMultiDict([('uid', '5120150563'), ('password', '123')])
+18:53:18 user <models.user.User object at 0x047129D0>
+18:53:18 5120150563
+18:53:18 丁亮
